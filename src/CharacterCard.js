@@ -3,7 +3,7 @@ import './App.css';
 export default class CharacterCard extends Component {
     render(){
     return (
-    <div>{this.props.value}</div>>
+    <div>{this.props.value}</div>
     )
     }
    }
