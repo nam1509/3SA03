@@ -7,8 +7,8 @@ import WordCard from './WordCard.js';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <WordCard value="hello"/>
+      <div>
+        <WordCard value="HELLO"/>
     </div>
     );
   }
