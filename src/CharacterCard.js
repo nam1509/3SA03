@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 
 
-export default class CharacterCard extends Component {
+export default class CharacterCard.js extends Component {
     constructor(props){
     super(props)
     this.state = {
